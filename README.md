@@ -8,8 +8,8 @@
 
 [English](README-en_US.md) | [简体中文](README-zh_Hans.md) | [繁体中文](README-zh_Hant.md) | [日本語](README-ja_JP.md)
 
-### RobinHood Project - A cloud-based blacklist system for the global Minecraft community.
+### RobinHood Project - 一个云端同步 Minecraft 社区黑名单系统，支持多服务端安装
 
-Supported servers: Bukkit (1.8+) | MCDReforged
+支持的平台: Bukkit (1.8+) | MCDReforged
   
 </div>
