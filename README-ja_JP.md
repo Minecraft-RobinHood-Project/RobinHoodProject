@@ -16,9 +16,9 @@ Minecraftコミュニティ全体に向けたクラウドベースのブラッ�
 
 ## 対応サーバー
 
-* 🛠️ Bukkit
-* 🛠️ Spigot
-* 🛠️ Paper / Purpur
+- ✅ Bukkit
+- ✅ Spigot
+- ✅ Paper / Purpur
 * 🛠️ MCDReforged
 * ❌ Fabric / Quilt
 
