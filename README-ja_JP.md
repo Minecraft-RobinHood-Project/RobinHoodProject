@@ -19,8 +19,8 @@ Minecraftコミュニティ全体に向けたクラウドベースのブラッ�
 - ✅ Bukkit
 - ✅ Spigot
 - ✅ Paper / Purpur
-* 🛠️ MCDReforged
-* ❌ Fabric / Quilt
+- 🛠️ MCDReforged
+- ❌ Fabric / Quilt
 
 ## 🖥️ 使用方法
 
