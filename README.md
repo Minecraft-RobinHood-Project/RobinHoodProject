@@ -10,6 +10,6 @@
 
 ### RobinHood Project - 一个云端同步 Minecraft 社区黑名单系统，支持多服务端安装
 
-支持的平台: Bukkit (1.8+) | MCDReforged
+支持的平台: [Bukkit (1.8+)](https://github.com/Minecraft-RobinHood-Project/RobinHoodProject-Bukkit) | [MCDReforged](https://github.com/Minecraft-RobinHood-Project/RobinHoodProject-MCDR)
   
 </div>
